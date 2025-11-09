@@ -1,10 +1,9 @@
+<div align="center">
 # Hi, I'm Avaya 👋  
 
 I’m a **frontend-focused developer** passionate about crafting **user-centric, responsive, and visually appealing web experiences.**  
 
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500" alt="Coding Animation" />
-</p>
+![Programmer Coding](https://res.cloudinary.com/dhik8n6my/image/upload/v1762674911/programmer_coding_i47axi.gif)
 
 ---
 
@@ -119,3 +118,4 @@ I’m a **frontend-focused developer** passionate about crafting **user-centric,
 </p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000,100:0088FF&height=100&section=footer)
+</div>
