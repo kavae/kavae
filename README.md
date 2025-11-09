@@ -1,15 +1,14 @@
-<div align="center">
 # Hi, I'm Avaya 👋  
 
 I’m a **frontend-focused developer** passionate about crafting **user-centric, responsive, and visually appealing web experiences.**  
 
-![Programmer Coding](https://res.cloudinary.com/dhik8n6my/image/upload/v1762674911/programmer_coding_i47axi.gif)
+![Programmer Coding](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
 
 ---
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:000,100:0088FF&height=180&section=header&text=%20Languages%20and%20Tools%20I%20Work%20With&fontSize=34&fontColor=fff&animation=fadeIn)
 
-<p align="center">
+<p align="left">
   <!-- Frontend -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
@@ -34,7 +33,7 @@ I’m a **frontend-focused developer** passionate about crafting **user-centric,
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <!-- Programming Languages -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -47,7 +46,7 @@ I’m a **frontend-focused developer** passionate about crafting **user-centric,
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <!-- Backend & Tools -->
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
@@ -63,7 +62,7 @@ I’m a **frontend-focused developer** passionate about crafting **user-centric,
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <!-- Data Science & ML -->
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
@@ -86,7 +85,7 @@ I’m a **frontend-focused developer** passionate about crafting **user-centric,
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<p align="left">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=kavae&theme=dark-smoky&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=500" />
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=kavae&theme=default&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=500" />
@@ -94,7 +93,7 @@ I’m a **frontend-focused developer** passionate about crafting **user-centric,
   </picture>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavae&layout=compact&theme=tokyonight&hide_border=true&card_width=500" alt="Top Languages" />
 </p>
 
@@ -110,12 +109,3 @@ I’m a **frontend-focused developer** passionate about crafting **user-centric,
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
----
-
-<p align="center">
-  <i>“Building seamless experiences, one component at a time.”</i>
-</p>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000,100:0088FF&height=100&section=footer)
-</div>
