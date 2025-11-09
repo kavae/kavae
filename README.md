@@ -1,6 +1,7 @@
-# Hi, I'm Avaya 👋  
+# <div align='center'> Hi, I'm Avaya 👋 </div>
+<p align='center'>I like my coffee black and my projects challenging.</p>
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:000,100:0088FF&height=180&section=header&text=%20Languages%20and%20Tools%20I%20Work%20With&fontSize=34&fontColor=fff&animation=fadeIn)
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:000,100:0088FF&height=220&section=header&text=%20Languages%20and%20Tools%20I%20Work%20With&fontSize=28&fontColor=fff&animation=fadeIn)
 <p align="center">
   <!-- Frontend -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
@@ -67,7 +68,7 @@
 
 ---
 
-<div align='center'> ## 📊 GitHub Analytics </div>
+## <div align='center'> 📊 GitHub Analytics </div>
 
 <p align="center">
   <picture>
@@ -83,7 +84,7 @@
 
 ---
 
-<div align='center'> ## 📫 Connect With Me </div>
+## <div align='center'> 📫 Connect With Me </div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/avaya-khatri" target="_blank" rel="noreferrer">
