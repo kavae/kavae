@@ -2,13 +2,12 @@
 
 I’m a **frontend-focused developer** passionate about crafting **user-centric, responsive, and visually appealing web experiences.**  
 
-![Programmer Coding](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
+![Programmer Coding](https://i.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
 
 ---
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:000,100:0088FF&height=180&section=header&text=%20Languages%20and%20Tools%20I%20Work%20With&fontSize=34&fontColor=fff&animation=fadeIn)
-
-<p align="left">
+<p align="center">
   <!-- Frontend -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
@@ -33,7 +32,7 @@ I’m a **frontend-focused developer** passionate about crafting **user-centric,
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <!-- Programming Languages -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -46,7 +45,7 @@ I’m a **frontend-focused developer** passionate about crafting **user-centric,
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <!-- Backend & Tools -->
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
@@ -62,7 +61,7 @@ I’m a **frontend-focused developer** passionate about crafting **user-centric,
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <!-- Data Science & ML -->
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
