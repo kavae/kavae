@@ -1,5 +1,4 @@
 # <div align='center'> Hi, I'm Avaya 👋 </div>
-<p align='center'>I like my coffee black and my projects challenging.</p>
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:000,100:0088FF&height=220&section=header&text=%20Languages%20and%20Tools%20I%20Work%20With&fontSize=28&fontColor=fff&animation=fadeIn)
 <p align="center">
